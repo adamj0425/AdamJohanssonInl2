@@ -1,0 +1,8 @@
+Jag har använt följande goals i maven:
+
+mvn clean:clean - Tar bort alla filer som genererats vid tidigare build 
+mvn compiler:compile - Kompilerar 
+mvn surefire:test - Testar
+mvn javadoc:javadoc - Genererar Javadoc
+mvn surefire-report-report - Genererar rapport för testerna
+mvn jar:jar - Genererar en jar-fil 

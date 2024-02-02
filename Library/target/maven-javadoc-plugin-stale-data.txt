@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+ui
+models
+utilities
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/src/main/java/.DS_Store = 1706879978985
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/src/main/java = 1706879973885
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/tag-search-index.js = 1706881785688
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/overview-tree.html = 1706881785678
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/module-search-index.js = 1706881785687
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/index.html = 1706881785680
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/package-search-index.js = 1706881785687
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/jquery-ui.overrides.css = 1706881785700
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/serialized-form.html = 1706881785660
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/index-all.html = 1706881785693
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/allpackages-index.html = 1706881785687
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/member-search-index.js = 1706881785688
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/script.js = 1706881785697
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/stylesheet.css = 1706881785697
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/overview-summary.html = 1706881785694
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/help-doc.html = 1706881785695
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/element-list = 1706881785649
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/allclasses-index.html = 1706881785685
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/type-search-index.js = 1706881785687
+/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs/search.js = 1706881785698
