@@ -1,0 +1,17 @@
+-classpath '/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/build/classes/java/main:/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/build/resources/main'
+-d '/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/build/docs/javadoc'
+-doctitle 'GradleLibrary 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'GradleLibrary 1.0-SNAPSHOT API'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/ui/Main.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/models/BookNotFoundException.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/models/Material.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/models/LoanNotFoundException.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/models/Customer.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/models/LoanAlreadyExistsException.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/models/Loan.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/models/BookCatalog.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/models/Book.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/utilities/LoanStatus.java'
+'/Users/adam0425/Documents/Java23/utvecklingsverktyg/inlamning2/AdamJohanssonInl2/GradleLibrary/src/main/java/utilities/GenderType.java'
